@@ -3,6 +3,12 @@
 
 BlackHeart is a simple python script to demonstrate reverse shell gaining without Microsoft Defender restrictions. (FOR EDUCATIONAL PURPOSES!!)
 
+# Updates
+<b>04/09/2022</b>
+
+- [X] Added basic obfuscation to reverse shell file.
+- [X] Bug fixes.
+
 # Setup
 You can use simply the following command<br>
 ```bash
