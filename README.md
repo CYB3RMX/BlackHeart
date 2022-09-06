@@ -1,7 +1,7 @@
 # BlackHeart
 <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"><br>
 
-BlackHeart is a simple python script to demonstrate reverse shell gaining without Microsoft Defender restrictions. (FOR EDUCATIONAL PURPOSES!!)
+BlackHeart is a simple python script to generate powershell scripts that demonstrate reverse shell gaining without Microsoft Defender restrictions. (FOR EDUCATIONAL PURPOSES!!)
 
 # Updates
 <b>04/09/2022</b>
